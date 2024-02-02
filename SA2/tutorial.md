@@ -5,7 +5,7 @@ Send and Receive Response
 In this activity, you will learn to send a response from the server and receive it on the wait page.
 
 
-<img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/1525749/images/10770113/SA2.gif width = "480" height = "320">
+<img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/1525749/images/10770113/SA2.gif" width = "480" height = "320">
 
 
 Follow the given steps to complete this activity:
