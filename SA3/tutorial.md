@@ -68,3 +68,5 @@ def checkPaymentStatus():
     return jsonify(paymentStatus)
 ~~~
 * Save and run the code to check the output.
+
+* Make sure to open the voltmills website in view mode by replacing "project" with "view" in the url and add / at the end of url. eg: https://tynker.me/code/view/65094444899d76597e769782/
